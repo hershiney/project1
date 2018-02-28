@@ -144,7 +144,7 @@ body {
 }
 
 p {
-	font-family: bree;
+	font-family: amiri;
 	font-weight: 200;
 	letter-spacing: 2px;
 	font-size: 18px;
@@ -152,8 +152,8 @@ p {
 }
 
 @font-face {
-	font-family: bree;
-	src: url(../fonts/bree.ttf);
+	font-family: amiri;
+	src: url(../fonts/amiri.ttf);
 }
 
 #girl_1 {
